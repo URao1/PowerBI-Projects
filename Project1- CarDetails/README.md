@@ -1,15 +1,11 @@
 # CarDekho-Dashboard
 
-### Dashboard Preview : https://github.com/user-attachments/assets/7c764e83-657d-4a32-9c31-8e052955282d
-
-
 ## Problem Statement
 
 This dashboard helps the Customers understand market trends of cars and how drastically car industries are growing with new enhanced features, costs also increases based on different type of sellers, fuel type and Modes. It helps the car manufacturer know if their customers are satisfied with their services, they get to know their improvement area, as well as the scope to expand the customer requirement.It is easy for the customer to identify which seller is good to buy a car and what type of fuel cars are in demand in the market.
 
 Since, 1995 Car business growing and it drastically increses in recent 4-5 years.
 This Dashbord helps to showcse insights related to growing business.
-
 
 ### Steps followed 
 
@@ -28,9 +24,7 @@ In our dataset, Some parameters were assigned value 0, representing those parame
 All these values have been ignored while calculating average rating for each of the parameters mentioned above.
 
 # Snapshot of Dashboard
-
-![dashboard_snapo](https://github.com/user-attachments/assets/7c764e83-657d-4a32-9c31-8e052955282d)
-
+![dashboard_snapo](https://github.com/user-attachments/assets/244718bd-b104-42d1-80a5-072c47e2f360)
 
 # Insights
 
