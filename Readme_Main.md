@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! 🚀
 
-####  Feel free to explore my Power BI projects and feedbacks are most appreciated! 
+####  Feel free to explore my Power BI projects here 👉 (https://github.com/URao1/PowerBI-Projects) and feedbacks are most appreciated! 
 
 ### Hi, I'm Utkarsha Rao! 👋
 Working with Data is my passion, I am an aspiring data analyst eager to leverage my analytical skills to uncover meaningful insights and drive impactful results. I have hands-on experience with SQL, Excel, and Python, along with a strong proficiency in data visualization tools like Power BI and Tablue. I have engaged in numerous data analysis challenges and completed projects using SQL, Python and Power BI to solve real-world business problems.
